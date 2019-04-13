@@ -8,6 +8,8 @@ nav { padding: 10px 0; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 /***************************************/
 
+
+/***************************************/
 .container {
     margin: 0 auto;
     max-width: 1170px;
@@ -81,3 +83,77 @@ section {
     color: #364147;
     font-size: 16px;
 }
+/***************************************/
+
+/***************************************/
+.header-nav {
+    border-bottom: 1px solid #a0a0a0;
+}
+
+.brand {
+    height: 65px;
+    margin-left: -15;
+    margin-right: 60px;
+    width: 170px; 
+}
+
+.logo {
+    height: auto;
+    width: 100%;
+}
+
+.search-box {
+    border: 1px solid #a0a0a0;
+    height: 30px;
+    padding: 6px 12px;
+    width: 330px;
+
+}
+
+.search-button {
+    background-color: #ffffff;
+    color: #a0a0a0;
+    width: 100;
+    height: 30;
+    border: 0;
+    padding: 0;
+}
+
+.nav-list {
+    margin-top: 10px;
+    padding-left: 0;
+    width: 575px;
+}
+
+.nav-list li a {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+}
+
+.profile {
+    margin-left: auto;
+}
+
+.account {
+    text-align: right;
+    font-size: 18px;
+    padding: 15px;
+    color: #364147;
+}
+
+.account a {
+    font-size: 14px;
+}
+
+.profile-pic {
+    height: 60px;
+    width: 60px;
+}
+
+.profile-pic img {
+    border-radius: 100px;
+    max-width: 100%;
+}
+/***************************************/
