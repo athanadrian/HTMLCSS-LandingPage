@@ -220,6 +220,7 @@ footer {
 }
 footer:after {
     content:"";
+    position: absolute;
     background-color: #a0a0a0;
     width: 75%;
     top: 0;
